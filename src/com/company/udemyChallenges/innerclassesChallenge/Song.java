@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package com.company.udemy.innerclassesChallenge;
 
 /**
  * Created by dev on 18/09/15.

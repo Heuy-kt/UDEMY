@@ -1,12 +1,9 @@
-package com.timbuchalka;
+package com.company.udemy.innerclassesChallenge;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-/**
- * Created by dev on 18/09/15.
- */
-public class Album {
+public class    Album {
     private String name;
     private String artist;
     private SongList songs;
@@ -73,5 +70,6 @@ public class Album {
             }
             return null;
         }
+
     }
 }

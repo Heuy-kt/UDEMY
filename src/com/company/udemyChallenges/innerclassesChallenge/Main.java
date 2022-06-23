@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package com.company.udemy.innerclassesChallenge;
 
 import java.util.*;
 
@@ -58,9 +58,6 @@ public class Main {
         albums.get(1).addToPlayList(24, playList);  // There is no track 24
 
         play(playList);
-
-
-
 
     }
 
