@@ -1,4 +1,4 @@
-package com.company.udemy;
+package com.company.udemyChallenges;
 
 public class Main {
 

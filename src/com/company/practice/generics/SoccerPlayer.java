@@ -1,2 +1,7 @@
-package com.company.practice.generics;public class SoccerPlayer {
+package com.company.practice.generics;
+
+public class SoccerPlayer extends Player{
+    public SoccerPlayer(String name) {
+        super(name);
+    }
 }

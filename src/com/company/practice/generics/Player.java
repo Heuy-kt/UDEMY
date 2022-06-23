@@ -1,2 +1,13 @@
-package com.company.practice.generics;public class player {
+package com.company.practice.generics;
+
+public abstract class Player {
+    private String name;
+
+    public Player(String name) {
+        this.name = name;
+    }
+
+    public String getName(){
+        return this.name;
+    }
 }

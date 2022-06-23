@@ -1,4 +1,4 @@
-package com.company.practice.abstracts;
+package com.company.practice.abstracts.animal;
 
 public class AustrailianDog extends Dog{
     public AustrailianDog(String name) {

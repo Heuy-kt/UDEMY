@@ -1,4 +1,4 @@
-package com.company.udemy.songChallenge;
+package com.company.udemyChallenges.songChallenge;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

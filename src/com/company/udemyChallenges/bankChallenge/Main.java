@@ -1,4 +1,4 @@
-package com.company.udemy.bankChallenge;
+package com.company.udemyChallenges.bankChallenge;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.company.udemy.innerclassesChallenge;
+package com.company.udemyChallenges.innerclassesChallenge;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

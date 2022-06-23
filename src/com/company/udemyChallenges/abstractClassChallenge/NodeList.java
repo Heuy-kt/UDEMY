@@ -1,2 +1,8 @@
-package com.company.udemyChallenges.abstractClassChallenge;public interface NodeList {
+package com.company.udemyChallenges.abstractClassChallenge;
+
+public interface NodeList {
+    ListItem getRoot();
+    boolean addItem(ListItem newItem);
+    boolean removeItem(ListItem item);
+    void traverse(ListItem root);
 }

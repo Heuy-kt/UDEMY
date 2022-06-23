@@ -1,4 +1,4 @@
-package com.company.udemy.songChallenge;
+package com.company.udemyChallenges.songChallenge;
 
 public class Song {
     private String title;

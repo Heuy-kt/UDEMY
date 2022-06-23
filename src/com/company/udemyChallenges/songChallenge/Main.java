@@ -1,4 +1,4 @@
-package com.company.udemy.songChallenge;
+package com.company.udemyChallenges.songChallenge;
 
 public class Main {
     public static void main(String[] args) {

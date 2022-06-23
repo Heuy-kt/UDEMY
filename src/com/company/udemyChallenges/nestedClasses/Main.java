@@ -1,4 +1,4 @@
-package com.company.udemy.nestedClasses;
+package com.company.udemyChallenges.nestedClasses;
 
 public class Main {
 

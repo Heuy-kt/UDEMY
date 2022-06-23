@@ -1,6 +1,4 @@
-package com.company.udemy.learningInterfaceChallenge;
-
-import java.util.ArrayList;
+package com.company.udemyChallenges.learningInterfaceChallenge;
 
 public interface ISavable {
 

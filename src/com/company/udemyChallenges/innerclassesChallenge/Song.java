@@ -1,4 +1,4 @@
-package com.company.udemy.innerclassesChallenge;
+package com.company.udemyChallenges.innerclassesChallenge;
 
 /**
  * Created by dev on 18/09/15.
